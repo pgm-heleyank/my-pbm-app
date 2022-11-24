@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/my-pbm-app/static/css/main.2d443f84.css",
+    "main.js": "/my-pbm-app/static/js/main.b1853732.js",
+    "index.html": "/my-pbm-app/index.html",
+    "main.2d443f84.css.map": "/my-pbm-app/static/css/main.2d443f84.css.map",
+    "main.b1853732.js.map": "/my-pbm-app/static/js/main.b1853732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d443f84.css",
+    "static/js/main.b1853732.js"
+  ]
+}
